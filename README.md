@@ -2,7 +2,7 @@
 
 Meu nome é Patrick 🤑
 
-Sou aluno do [Alura] ![](https://www.alura.com.br/) e estudante da 2°ANO 💸
+Sou aluno do [Alura] ![](https://cursos.alura.com.br/course/html-css-usando-criatividade-criar-site/task/118374) e estudante da 2°ANO 💸
 
 Ese espaço é dedicado para organizar e compartilhar meus projetos  desenvolvidos 📽️
 
